@@ -1,4 +1,4 @@
-module github.com/shadowOats
+module github.com/shadowOats/base
 
 go 1.25.4
 
